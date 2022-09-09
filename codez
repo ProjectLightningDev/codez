@@ -6,16 +6,7 @@ if game.PlaceId == 8396586868 then
     
     elseif game.PlaceId == 9551640993 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Mining%20Simulator%202.Lua"))()
-
-    elseif game.PlaceId == 6284583030 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Pet%20Simulator%20X.Lua"))() 
-    
-    elseif game.PlaceId == 10321372166 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Pet%20Simulator%20X.Lua"))() 
-        
-    elseif game.PlaceId == 7722306047 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Pet%20Simulator%20X.Lua"))() 
-
+ 
     elseif game.PlaceId == 9498006165 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Tapping%20Simulator.Lua"))()  
     
