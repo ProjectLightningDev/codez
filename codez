@@ -13,4 +13,7 @@ if game.PlaceId == 8396586868 then
     elseif game.PlaceId == 6839171747 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Doors.Lua"))()
     
+    elseif game.PlaceId == 8612195438 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Clicker%20Party%20Simulator.Lua"))()
+    
 end
